@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="current_temperature_placeholder">0.0 F</string>
+    <string name="current_percent_placeholder">0%</string>
+    <string name="current_description_placeholder">None</string>
+    <string name="current_windspeed_placeholder">0.0 miles/hr</string>
+    <string name="current_winddegree_placeholder">0.0 degrees</string>
+
+    <string name="current_temperature_label">Temperature</string>
+    <string name="current_temperature_max_label">Temperature Max</string>
+    <string name="current_temperature_min_label">Temperature Min</string>
+    <string name="current_description_label">Description</string>
+    <string name="current_humidity_label">Humidity</string>
+    <string name="current_wind_speed_label">Wind Speed</string>
+    <string name="current_wind_degree_label">Wind Degree</string>
+    <string name="current_cloudiness_label">Cloudiness</string>
+    <string name="current_button_label">Check Forecast</string>
+
+    <string name="forecast_item_max_label">Max: </string>
+    <string name="forecast_item_min_label">Min: </string>
+    <string name="forecast_humidity_label">Humidity: </string>
+</resources>
